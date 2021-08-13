@@ -1,4 +1,5 @@
 # CommandPause
+Download dll file or rar file.
 RoR2 mod that pauses game for when your choosing an item
 
 allows user to spend time thinking about what to pick
