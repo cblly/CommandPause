@@ -1,0 +1,10 @@
+{
+    "name": "CommandPause",
+    "version_number": "2.0.0",
+    "website_url": "https://github.com/cabally/CommandPause",
+    "description": "pauses the game world to allow you to spend your time choosing so you don't feel rushed(works for scrapper and artifact of command)",
+    "dependencies": [
+        "tristanmcpherson-R2API-2.5.7",
+	"bbepis-BepInExPack-5.3.1"
+    ]
+}
